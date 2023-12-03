@@ -1,3 +1,8 @@
-<h1 align=center>Hi there, I'm <a href=https://daniilshat.ru/ target=_blank>Daniil</a> 
-<img src=https://github.com/blackcater/blackcater/raw/main/images/Hi.gif height=32/></h1>
-<h3 align=center>Computer science student, IT news writer from Russia 🇷🇺</h3>
+# Биржевой бот #
+Telegram-бот для получения актуальных сводок по криптовалютам и ценным бумагам с возможностью построения графиков. <br>
+Ответ бота строится на основе данных локального WebSocket-сервера <br>
+WebSocket-сервер собирает и обрабатывает данные криптобирж Binance, Bybit, BitMart, KuCoin и фондовых бирж <...>.
+    
+
+## Синхронный WebSocket-сервер ##
+fdsdf
